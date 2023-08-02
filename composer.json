@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "api-platform/core": "^3.0",
+        "api-platform/core": "*",
         "allekslar/monofony-menu-extension": "^1.0",
         "stof/doctrine-extensions-bundle": "^1.7",
         "sylius/locale-bundle": "^1.12",
